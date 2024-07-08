@@ -7,6 +7,7 @@ Projeto desenvolvido como parte do bootcamp Alura One T6, focado na integração
 - Linguagem: Java
 - Framework: Spring Boot
 - IDE: IntelliJ IDEA
+- Integração a Banco de Dados PostgreSQL
 - APIs: Projeto Gutenberg (https://gutendex.com/)
 
 ## Funcionalidades
